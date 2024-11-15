@@ -1,9 +1,9 @@
 ## Saudações, eu sou o Jose Vitor Miranda👋🌹
-Faço Egenharia de Computação na UFSC e estou no terceiro semestre!
+<!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre!
 Já fiz trabalhos com C++, pois é o que meu curso de certa forma mais engloba, na disciplina de prog2 estamos atualmente construindo um jogo.
 Já fiz outros trabalhos com Python, passei por várias bibliotecas como pandas, seaborn, matplotlib, scikeatlearn, kbeans. 
 Dentro de Python fiz umas aplicações de IA generativa e Machine Learning. Utilizadas no modelo Perceptron, Arvores de Decisão, modelos Regressão e Classificação.
- Aplicações de Web como Landing Page utilizando HTML, CSS eas vezes JS e as vezes Python
+ Aplicações de Web como Landing Page utilizando HTML, CSS eas vezes JS e as vezes Python -->
 
 <!--
 **joseevitor/joseevitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
