@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://beacons.ai/joseevitor">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=joseevitor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="150cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseevitor&layout=compact&lands_count=16theme=dracula">
+  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=joseevitor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="170cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joseevitor&layout=compact&lands_count=16theme=dracula">
 
 </div>
 
