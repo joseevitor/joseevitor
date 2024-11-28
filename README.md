@@ -1,4 +1,4 @@
-## Saudações, eu sou o Jose Vitor Miranda☕🌹
+## Olá, eu sou o Jose Vitor Miranda☕🌹
 <!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre! -->
 Fiz trabalhos com C++, linguagem que meu curso de certa forma mais engloba, e atualmente na disciplina de Programação 2 estamos atualmente construindo um jogo.
 Fiz outros trabalhos com Python, passei por várias bibliotecas como pandas, seaborn, matplotlib, scikeatlearn, kbeans. 
