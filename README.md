@@ -1,6 +1,6 @@
 ## Olá, eu sou o Jose Vitor Miranda☕🌹
 <!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre! -->
-Fiz trabalhos com C++, linguagem que meu curso de certa forma mais engloba, e atualmente na disciplina de Programação 2 estamos atualmente construindo um jogo.
+Fiz trabalhos com C++, linguagem que meu curso de certa forma mais engloba, e na disciplina de Programação 2 estamos atualmente construindo um jogo.
 Fiz outros trabalhos com Python, passei por várias bibliotecas como pandas, seaborn, matplotlib, scikeatlearn, kbeans. 
 
 Dentro de Python fiz umas aplicações de IA generativa e Machine Learning. Utilizadas no modelo Perceptron, Arvores de Decisão, modelos Regressão e Classificação.
