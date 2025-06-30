@@ -5,32 +5,33 @@ Fiz outros trabalhos com Python, passei por várias bibliotecas como pandas, sea
 
 Dentro de Python fiz umas aplicações de IA generativa e Machine Learning. Utilizadas no modelo Perceptron, Arvores de Decisão, modelos Regressão e Classificação.
 Aplicações de Web como Landing Page utilizando HTML, CSS e oscilando entre JS e Python como linguagem para a página.
-<!--
-**joseevitor/joseevitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+Neste momento estou atuando como Diretor Presidente da EJEC - Empresa Júnior de Engenharia de Computação. Onde é necessário, além das programming hard skills, ter 
+uma gestão cuidando das documentações que são aprovadas ou reprovadas pela Brasil Júnior, ter cuidado com a cultura da Empresa, para que os integrantes se mantenham engajados,
+e auxiliar o setor de Mercado para que, com os membros engajados, os projetos venham para a empresa e gere produtos, curando as dores dos clientes.
+
+
 <div>
   <a href="https://beacons.ai/joseevitor">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joseevitor&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseevitor&layout=compact&langs_count=7&theme=dark">
-
+    <img 
+      style="height:180px;" 
+      src="https://github-readme-stats.vercel.app/api?username=joseevitor&show_icons=true&theme=dark&include_all_commits=true"
+      alt="GitHub Stats"
+    >
+    <img 
+      style="height:180px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseevitor&layout=compact&langs_count=7&theme=dark"
+      alt="Top Languages"
+    >
+  </a>
 </div>
 
-
-<div style="display: inline_block"><br>
+<div style="display: inline-block; margin-top: 10px;">
   <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Jose-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
   <img align="center" alt="Jose-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!--<img align="center" alt="Jose-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <!-- <img align="center" alt="Jose-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
