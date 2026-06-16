@@ -35,4 +35,7 @@ e auxiliar o setor de Mercado para que, com os membros engajados, os projetos ve
   <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jose-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Jose-Linux" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+
+  <!--[Linux]("https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"-->
 </div>
