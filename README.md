@@ -3,6 +3,7 @@
 Engenharia de Computação | Desenvolvimento Full-Stack | IA | Cloud
 
 Graduando em Engenharia de Computação pela UFSC, desenvolvendo projetos em desenvolvimento web, bancos de dados, inteligência artificial, automação e computação em nuvem.
+
 Atualmente membro e pesquisador do BELL - Grupo de Computação Quântica, dentro da LIA - Liga de Inteligência Artificial, na UFSC.
 
 Tecnologias: Python, JavaScript, TypeScript, React, Node.js, C++, Java, MySQL, Flask, Streamlit, APIs REST, AWS, Scikit-Learn, TensorFlow, Keras, Git e GitHub.
