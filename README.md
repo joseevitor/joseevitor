@@ -1,14 +1,12 @@
 ## Olá, eu sou o Jose Vitor Miranda☕🌹
 <!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre! -->
-Fiz trabalhos com C++, linguagem que meu curso de certa forma mais engloba.
-Fiz outros trabalhos com Python, passei por várias bibliotecas como pandas, seaborn, matplotlib, scikeatlearn, kbeans. 
+Engenharia de Computação | Desenvolvimento Full-Stack | IA | Cloud
 
-Dentro de Python fiz umas aplicações de IA generativa e Machine Learning. Utilizadas no modelo Perceptron, Arvores de Decisão, modelos Regressão e Classificação.
-Aplicações de Web como Landing Page utilizando HTML, CSS e oscilando entre JS e Python como linguagem para a página.
+Graduando em Engenharia de Computação pela UFSC, desenvolvendo projetos em desenvolvimento web, bancos de dados, inteligência artificial, automação e computação em nuvem.
 
-Atuei como Diretor Presidente da EJEC - Empresa Júnior de Engenharia de Computação. Onde é necessário, além das programming hard skills, ter 
-uma gestão cuidando das documentações que são aprovadas ou reprovadas pela Brasil Júnior, ter cuidado com a cultura da Empresa, para que os integrantes se mantenham engajados,
-e auxiliar o setor de Mercado para que, com os membros engajados, os projetos venham para a empresa e gere produtos, curando as dores dos clientes.
+Tecnologias: Python, JavaScript, TypeScript, React, Node.js, C++, Java, MySQL, Flask, Streamlit, APIs REST, AWS, Scikit-Learn, TensorFlow, Keras, Git e GitHub.
+
+Interesses: Desenvolvimento Full-Stack, Engenharia de Software, Machine Learning, Cloud Computing e Arquitetura de Sistemas.
 
 
 <div>
