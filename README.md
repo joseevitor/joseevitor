@@ -2,7 +2,7 @@
 <!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre! -->
 Engenharia de Computação | Desenvolvimento Full-Stack | IA | Cloud
 
-Graduando em Engenharia de Computação pela UFSC, desenvolvendo projetos em desenvolvimento web, bancos de dados, inteligência artificial, automação e computação em nuvem.
+Graduando pela UFSC, desenvolvendo projetos em desenvolvimento web, bancos de dados, inteligência artificial, automação e computação em nuvem.
 
 Atualmente membro e pesquisador do BELL - Grupo de Computação Quântica, dentro da LIA - Liga de Inteligência Artificial, na UFSC.
 
