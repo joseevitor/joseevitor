@@ -8,7 +8,7 @@ Atualmente membro e pesquisador do BELL - Grupo de Computação Quântica, dentr
 
 Tecnologias: Python, JavaScript, TypeScript, React, Node.js, C++, Java, MySQL, Flask, Streamlit, APIs REST, AWS, Scikit-Learn, TensorFlow, Keras, Git e GitHub.
 
-Interesses: Desenvolvimento Full-Stack, Engenharia de Software, Machine Learning, Cloud Computing e Arquitetura de Sistemas.
+Interesses: Desenvolvimento Full-Stack, Engenharia de Software, Cloud Computing e Arquitetura de Sistemas.
 
 
 <div>
