@@ -24,3 +24,8 @@ Interesses: Desenvolvimento Full-Stack, Engenharia de Software, Cloud Computing 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joseevitor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300" />
 </p>
+
+<!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joseevitor&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
