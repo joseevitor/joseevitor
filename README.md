@@ -1,14 +1,13 @@
-## Olá, eu sou o Jose Vitor Miranda☕🌹
-<!--Faço Egenharia de Computação na UFSC e estou no terceiro semestre! -->
-Engenharia de Computação | Desenvolvimento Full-Stack | IA | Cloud
+## Hello World! I'm José Vitor Miranda ☕🌹
 
-Graduando pela UFSC, desenvolvendo projetos em desenvolvimento web, bancos de dados, inteligência artificial, automação e computação em nuvem.
+Computer Engineering student at the Federal University of Santa Catarina (UFSC), passionate about building software and solving real-world problems through technology.
 
-Atualmente membro e pesquisador do BELL - Grupo de Computação Quântica, dentro da LIA - Liga de Inteligência Artificial, na UFSC.
+Currently developing projects in web development, databases, artificial intelligence, automation, and cloud computing.
 
-Tecnologias: Python, JavaScript, TypeScript, React, Node.js, C++, Java, MySQL, Flask, Streamlit, APIs REST, AWS, Scikit-Learn, TensorFlow, Keras, Git e GitHub.
+I am also a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, where I work on research involving quantum computing and blockchain.
 
-Interesses: Desenvolvimento Full-Stack, DevOps e Quantum Computing.
+### Interests
+Full-Stack Development, DevOps, Quantum Computing
 <!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josee_vit0r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvmiranda/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:josevitormiranda96@gmail.com) 
