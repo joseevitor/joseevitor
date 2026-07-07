@@ -4,7 +4,7 @@ Computer Engineering student at the Federal University of Santa Catarina (UFSC),
 
 Currently developing projects in web development, databases, artificial intelligence, automation, and cloud computing.
 
-I am also a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on research involving quantum computing and blockchain.
+I'm also a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on a research involving quantum blockchain.
 
 ### Interests
 Full-Stack Development, DevOps, Quantum Computing
