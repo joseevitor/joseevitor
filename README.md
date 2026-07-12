@@ -17,7 +17,7 @@ Full-Stack Development, DevOps, Quantum Computing
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=joseevitor&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="300" />
-  <img src="https://streak-stats.demolab.com/?user=joseevitor&theme=dark&hide_border=false" width="330" />
+  <img src="https://streak-stats.demolab.com/?user=joseevitor&theme=dark" width="330" />
 </p>
 
 <p align="center">
