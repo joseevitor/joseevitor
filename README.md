@@ -1,5 +1,6 @@
 ## Hello World! I'm José Vitor Miranda ☕🌹
 
+
 Computer Engineering student at the Federal University of Santa Catarina (UFSC), passionate about building software and solving real-world problems through technology.
 
 Currently developing projects in web development, databases, artificial intelligence, automation, and cloud computing.
