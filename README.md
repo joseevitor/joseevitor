@@ -8,7 +8,7 @@ Currently developing projects in web development, databases, artificial intellig
 I'm also a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on a research involving quantum blockchain.
 
 ### Interests
-Full-Stack Development, DevOps, Quantum Computing
+Full-Stack Development, DevOps, Quantum Computing, Multi-Agents Systems
 
 <!--
 ## 🌐 Socials:
