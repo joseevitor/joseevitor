@@ -4,7 +4,7 @@ Computer Engineering student at the Federal University of Santa Catarina (UFSC),
 
 Currently working on multi agents systems toward healthcare and ddeveloping projects in web development, databases, artificial intelligence, automation, and cloud computing.
 
-I'm also a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on a research involving quantum blockchain.
+I'm a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on a research involving quantum blockchain, and at LAIA (Autonomous Intelligent Agents Laboratory), building Multi-Agents Systems to apply on healthcare.
 
 ### Interests
 Full-Stack Development, DevOps, Quantum Computing, Multi-Agents Systems
