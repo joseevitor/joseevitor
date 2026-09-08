@@ -7,7 +7,7 @@ Currently working on multi agents systems toward healthcare and ddeveloping proj
 I'm a researcher at BELL (Quantum Computing Group) of LIA (Artificial Intelligence League) at UFSC, introducing myself on a research involving quantum blockchain, and at LAIA (Autonomous Intelligent Agents Laboratory), building Multi-Agents Systems to apply on healthcare.
 
 ### Interests
-Full-Stack Development, DevOps, Quantum Computing, Multi-Agents Systems
+Full-Stack Development, Quantum Computing, Multi-Agents Systems
 
 <!--
 ## 🌐 Socials:
